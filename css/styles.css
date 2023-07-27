@@ -75,11 +75,13 @@ main {
   line-height: 24px;
 }
 .portfolio-main-button {
+  font-family: 'Roboto', sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.04em;
+  background-color: #4d5ae5;
 }
 .portfolio-main-stuff-name {
   color: #2e2f42;
@@ -91,4 +93,7 @@ main {
   color: #434455;
   font-size: 16px;
   line-height: 24px;
+}
+.portfolio-main-list {
+  list-style: none;
 }
