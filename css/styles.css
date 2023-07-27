@@ -1,0 +1,94 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+main {
+  letter-spacing: 0.02em;
+}
+.header-name {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+}
+.header-studio,
+.header-portfolio,
+.header-Contacts {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.header-commun {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.main-background-firt {
+  background-color: #2e2f42;
+}
+.main-name {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+}
+.main-button {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.main-background-second {
+  background-color: #f4f4fd;
+}
+
+.main-benefits-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.main-benefits-paragrafs {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.main-stuff-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.main-stuff-job {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.footer-background {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #f4f4fd;
+  font-size: 16px;
+  line-height: 24px;
+}
+.portfolio-main-button {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+}
+.portfolio-main-stuff-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.portfolio-main-stuff-job {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
