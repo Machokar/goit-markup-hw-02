@@ -16,7 +16,7 @@ main {
   color: #4d5ae5;
   font-size: 18px;
   font-weight: 800;
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -74,7 +74,7 @@ main {
   background-color: #404bbf;
 }
 .main-background-second {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .main-benefits-name {
