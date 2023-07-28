@@ -14,9 +14,9 @@ main {
 .header-name {
   font-family: 'Raleway', sans-serif;
   color: #4d5ae5;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 800;
-  line-height: 1.17;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -30,20 +30,24 @@ main {
   list-style: none;
 }
 .header-address {
-  font-style: none;
+  font-style: normal;
 }
 .header-studio-portfolio-contact {
-  color: #2e2f42;
+  color: var(--primary-black-color);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.header-studio-portfolio-contact:hover,
+.header-studio-portfolio-contact:focus {
+  color: #404bbf;
+}
 .header-commun {
   color: #434455;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 .header-commun:hover,
 .header-commun:focus {
