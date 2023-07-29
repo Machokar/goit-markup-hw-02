@@ -44,7 +44,7 @@ main {
 }
 .header-studio-portfolio-contact:hover,
 .header-studio-portfolio-contact:focus {
-  color: var(--primary-color);
+  color: var(--primary-blue-color);
 }
 .header-commun {
   color: var(--primary-paragraf-color);
@@ -54,7 +54,7 @@ main {
 }
 .header-commun:hover,
 .header-commun:focus {
-  color: var(--primary-color);
+  color: var(--primary-blue-color);
 }
 .main-background-firt {
   background-color: var(--primary-black-color);
@@ -88,7 +88,7 @@ main {
   color: var(--primary-black-color);
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .main-benefits-paragrafs {
@@ -144,8 +144,8 @@ main {
 }
 .portfolio-main-button:hover,
 .portfolio-main-button:focus {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: var(--primary-color-white);
+  background-color: var(--primary-blue-color);
 }
 .portfolio-main-stuff-name {
   color: var(--primary-black-color);
